@@ -22,21 +22,21 @@ Members
 
 ### PHD Candidates
 
-* Dr. Qingrong Cheng: Cross-modal retrieval, Text-to-image synthesis
-* Dr. Zhenshan Tan: Salient object detection, multi-modal
-* Dr. Changzhi Wang: Image captioning
-* Dr. Yijin Yang: Visual tracking
-* Dr. Qi Guo: Face editting
+* Dr. Qingrong Cheng: Cross-modal retrieval, Text-to-image synthesis. 2017.09-
+* Dr. Zhenshan Tan: Salient object detection, multi-modal. 2019.09-
+* Dr. Changzhi Wang: Image captioning. 2018.09-
+* Dr. Yijin Yang: Visual tracking. 2020.09-
+* Dr. Qi Guo: Face editting. 2021.09-
 
 ### Postgraduates
 
-* Keyu Wen: Multi-modal retrieval, Vision-language pre-training
-* Cheng Chen: 
-* Yuzhuo Qin: Cross-modal retrieval
-* Wei Zhang: Few-shot learning
-* Hengwei Liu:
-* Yanlin Zhang: Recommendation
-* Yue Huang: 
+* Keyu Wen: Multi-modal retrieval, Vision-language pre-training. 2019.09-
+* Cheng Chen: 2019.09-
+* Yuzhuo Qin: Cross-modal retrieval. 2020.09-
+* Wei Zhang: Few-shot learning. 2020.09-
+* Hengwei Liu: 2021.09-
+* Yanlin Zhang: Recommendation. 2021.09-
+* Yue Huang: 2021.09-
 <!-- Getting started
 ======
 1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
