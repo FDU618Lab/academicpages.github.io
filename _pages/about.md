@@ -7,8 +7,9 @@ redirect_from:
   - /about/
   - /about.html
 ---
+2022/05/11 大庆跑路了！不维护网站了！
 
-We have one paper accepted by CVPR2022!
+2022/03/02 We have one paper accepted by CVPR2022!
 
 A data-driven personal website
 ======
