@@ -10,8 +10,8 @@ citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>TCSVT</i
 ---
 Image-text matching
 
-[Download paper here](https://ieeexplore.ieee.org/abstract/document/9222079)
-[arxiv](https://arxiv.org/pdf/2010.11550.pdf)
-[Code](https://github.com/kywen1119/DSRAN)
+[[Download paper here](https://ieeexplore.ieee.org/abstract/document/9222079) |
+[arxiv](https://arxiv.org/pdf/2010.11550.pdf) |
+[Code](https://github.com/kywen1119/DSRAN)]
 
-Recommended citation: Your Name, You. (2009). "Paper Title Number 1." <i>Journal 1</i>. 1(1).
+<!-- Recommended citation: Your Name, You. (2009). "Paper Title Number 1." <i>Journal 1</i>. 1(1). -->
