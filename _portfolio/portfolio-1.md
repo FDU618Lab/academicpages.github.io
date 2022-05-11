@@ -1,6 +1,6 @@
 ---
-title: "Diao Keyu"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+title: "Keyu Wen"
+excerpt: "Short description of portfolio item number 1<br/><img src='/images/Keyu_Wen.jpg'>"
 collection: portfolio
 ---
 
