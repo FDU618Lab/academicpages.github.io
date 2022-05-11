@@ -1,15 +1,17 @@
 ---
 title: "Learning dual semantic relations with graph attention for image-text matching"
 collection: publications
-permalink: /publication/2009-10-01-paper-title-number-1
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: 2009-10-01
-venue: 'IEEE Transactions on Circuits and Systems for Video Technology'
-paperurl: 'https://ieeexplore.ieee.org/abstract/document/9222079/'
-citation: 'Wen, Keyu, Xiaodong Gu, and Qingrong Cheng. "Learning dual semantic relations with graph attention for image-text matching." IEEE Transactions on Circuits and Systems for Video Technology 31.7 (2020): 2866-2879.'
+permalink: /publication/2020-DSRAN
+excerpt: 'Image-text matching'
+date: 2020
+venue: 'TCSVT'
+paperurl: 'https://ieeexplore.ieee.org/abstract/document/9222079'
+citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>TCSVT</i>. 1(1).'
 ---
-This paper is very niubi.
+Image-text matching
 
-[Download paper here](https://ieeexplore.ieee.org/abstract/document/9222079/)
+[Download paper here](https://ieeexplore.ieee.org/abstract/document/9222079)
+[arxiv](https://arxiv.org/pdf/2010.11550.pdf)
+[Code](https://github.com/kywen1119/DSRAN)
 
-Recommended citation: Wen, Keyu, Xiaodong Gu, and Qingrong Cheng. "Learning dual semantic relations with graph attention for image-text matching." IEEE Transactions on Circuits and Systems for Video Technology 31.7 (2020): 2866-2879.
+Recommended citation: Your Name, You. (2009). "Paper Title Number 1." <i>Journal 1</i>. 1(1).
