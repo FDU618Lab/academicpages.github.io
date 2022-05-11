@@ -15,12 +15,12 @@ redirect_from:
 
 Introduction
 ======
-We are 618 Laboratory from Fudan University, Electronic Engineering, Shanghai, China. Our main research interests include multi-modal retrieval and generation, image recognition, salient object detection, few-shot learning, self-supervised learning, contrastive learning, visual tracking, video recognition, face editting, recommendation, speech & audio. We have papers published in top conferences and journals including CVPR, ICCV, ICME, TMM, TCSVT, NN, AI, NCA, NC, DSP, MMT. Till now, our lab is consists of 7 postgraduates and 5 PHD candidates. Students all have bright future graduated from our Lab. They are hired by Tencent, Alibaba, Bytedance, Oppo, Huawei, Jingdong, Bilibili and other Internet enterprises. 
+We are 618 Laboratory from Fudan University, Electronic Engineering, Shanghai, China. Our main research interests include multi-modal retrieval and generation, image recognition, salient object detection, few-shot learning, self-supervised learning, contrastive learning, visual tracking, video recognition, face editting, recommendation, speech & audio. We have papers published in top conferences and journals including CVPR, ICCV, ICME, TMM, TCSVT, NN, AI, NCA, NC, DSP, MMT. Till now, our lab is consists of 7 postgraduates and 5 Phd candidates. Students all have bright future graduated from our Lab. They are hired by Tencent, Alibaba, Bytedance, Oppo, Huawei, Jingdong, Bilibili and other Internet enterprises. 
 
 Members
 ======
 
-### PHD Candidates
+### Phd Candidates
 
 * Dr. Qingrong Cheng: Cross-modal retrieval, Text-to-image synthesis. 2017.09-
 * Dr. Zhenshan Tan: Salient object detection, multi-modal. 2019.09-
