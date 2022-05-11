@@ -15,28 +15,28 @@ redirect_from:
 
 Introduction
 ======
-We are 618 Laboratory from Fudan University, Electronic Engineering, Shanghai, China. Our main research interests include multi-modal retrieval and generation, image recognition, salient object detection, few-shot learning, self-supervised learning, contrastive learning, visual tracking, video recognition, face editting, recommondation, speech & audio. We have papers published in top conferences and journals including CVPR, ICCV, ICME, TMM, TCSVT, NN, AI, NCA, NC, DSP, MMT. Till now, our lab is consists of 7 postgraduates and 5 PHD candidates. Students all have bright future graduated from our Lab. They are hired by Tencent, Alibaba, Bytedance, Oppo, Huawei, Jingdong, Bilibili and other Internet enterprises. 
+We are 618 Laboratory from Fudan University, Electronic Engineering, Shanghai, China. Our main research interests include multi-modal retrieval and generation, image recognition, salient object detection, few-shot learning, self-supervised learning, contrastive learning, visual tracking, video recognition, face editting, recommendation, speech & audio. We have papers published in top conferences and journals including CVPR, ICCV, ICME, TMM, TCSVT, NN, AI, NCA, NC, DSP, MMT. Till now, our lab is consists of 7 postgraduates and 5 PHD candidates. Students all have bright future graduated from our Lab. They are hired by Tencent, Alibaba, Bytedance, Oppo, Huawei, Jingdong, Bilibili and other Internet enterprises. 
 
 Members
 ======
 
 ### PHD Candidates
 
-* Dr. Qingrong Cheng
-* Dr. Zhenshan Tan
-* Dr. Changzhi Wang
-* Dr. Yijin Yang
-* Dr. Qi Guo
+* Dr. Qingrong Cheng: Cross-modal retrieval, Text-to-image synthesis
+* Dr. Zhenshan Tan: Salient object detection, multi-modal
+* Dr. Changzhi Wang: Image captioning
+* Dr. Yijin Yang: Visual tracking
+* Dr. Qi Guo: Face editting
 
 ### Postgraduates
 
-* Mr. Keyu Wen
-* Mr. Cheng Chen
-* Mr. Yuzhuo Qin
-* Mr. Wei Zhang
-* Mr. Hengwei Liu
-* Miss Yanlin Zhang
-* Miss Yue Huang
+* Keyu Wen: Multi-modal retrieval, Vision-language pre-training
+* Cheng Chen: 
+* Yuzhuo Qin: Cross-modal retrieval
+* Wei Zhang: Few-shot learning
+* Hengwei Liu:
+* Yanlin Zhang: Recommendation
+* Yue Huang: 
 <!-- Getting started
 ======
 1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
