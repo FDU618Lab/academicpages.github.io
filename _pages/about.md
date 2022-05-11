@@ -19,15 +19,17 @@ We are 618 Laboratory from Fudan University, Electronic Engineering, Shanghai, C
 
 Members
 ======
-PHD Candidates
------------------
+
+### PHD Candidates
+
 * Dr. Qingrong Cheng
 * Dr. Zhenshan Tan
 * Dr. Changzhi Wang
 * Dr. Yijin Yang
 * Dr. Qi Guo
-Postgraduates
------------------
+
+### Postgraduates
+
 * Mr. Keyu Wen
 * Mr. Cheng Chen
 * Mr. Yuzhuo Qin
