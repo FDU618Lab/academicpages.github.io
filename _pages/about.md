@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-2022/05/17 Congratulations to Chen Cheng, Keyu Wen, and Qingrong Cheng for their graduation.
+2022/05/17 Congratulations to Cheng Chen, Keyu Wen, and Qingrong Cheng for their graduation.
 
 2022/05/13 恭迎618新一代掌门人老大姐琪姐！
 
