@@ -7,9 +7,10 @@ redirect_from:
   - /about/
   - /about.html
 ---
-2022/05/13 恭迎618新一代掌门人老大姐琪姐接班大庆！
 
-2022/05/11 大庆跑路了！不维护网站了！
+2022/05/17 Congratulations to Chen Cheng, Keyu Wen, and Qingrong Cheng for their graduation.
+
+2022/05/13 恭迎618新一代掌门人老大姐琪姐！
 
 2022/05/10 We have one paper accepted by Neural Networks!
 
