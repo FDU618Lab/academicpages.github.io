@@ -1,0 +1,6 @@
+@article{chen2022utc,
+  title={UTC: A Unified Transformer with Inter-Task Contrastive Learning for Visual Dialog},
+  author={Chen, Cheng and Zhu, Yudong and Tan, Zhenshan and Cheng, Qingrong and Jiang, Xin and Liu, Qun and Gu, Xiaodong},
+  journal={arXiv preprint arXiv:2205.00423},
+  year={2022}
+}
