@@ -1,0 +1,10 @@
+@article{tan2021depth,
+  title={Depth scale balance saliency detection with connective feature pyramid and edge guidance},
+  author={Tan, Zhenshan and Gu, Xiaodong},
+  journal={Applied Intelligence},
+  volume={51},
+  number={8},
+  pages={5775--5792},
+  year={2021},
+  publisher={Springer}
+}
