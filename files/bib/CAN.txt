@@ -1,0 +1,10 @@
+@article{chen2021context,
+  title={Context-aware network with foreground recalibration for grounding natural language in video},
+  author={Chen, Cheng and Gu, Xiaodong},
+  journal={Neural Computing and Applications},
+  volume={33},
+  number={16},
+  pages={10485--10502},
+  year={2021},
+  publisher={Springer}
+}
