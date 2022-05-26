@@ -1,0 +1,13 @@
+@article{CHENG2020102866,
+title = {Cross-modal Feature Alignment based Hybrid Attentional Generative Adversarial Networks for text-to-image synthesis},
+journal = {Digital Signal Processing},
+volume = {107},
+pages = {102866},
+year = {2020},
+issn = {1051-2004},
+doi = {https://doi.org/10.1016/j.dsp.2020.102866},
+url = {https://www.sciencedirect.com/science/article/pii/S1051200420302116},
+author = {Qingrong Cheng and Xiaodong Gu},
+keywords = {Text-to-image synthesis, Spectral normalization, Self-attention mechanism, Cross-modal attention, Generative Adversarial Networks},
+abstract = {With the development of the generative model, image synthesis has become a research hotspot. This paper presents a novel Cross-modal Feature Alignment based Hybrid Attentional Generative Adversarial Networks (CFA-HAGAN) for text-to-image synthesis. It mainly consists of two steps, text-image encoding and text-to-image synthesis. Text-image encoding learns a Cross-modal Feature Alignment Model (CFAM), which adopts a fine-grained attentional network to learn the original multi-modalities' aligned features. The feature alignment space is viewed as the transitional space in the whole process. Then, the Hybrid Attentional Generative Adversarial Networks (HAGAN) learns the inverse mapping from the encoded text feature to the original image. Specifically, the hybrid attention block consists of text-image cross-modal attention mechanism and self-attention mechanism of an image. Cross-modal attention makes the synthesized image fine-grained by adding word-level information as additional supervision. Self-attention can solve the long-distance reliance problem of image sub-region features when synthesizes images from the hidden feature. Although excellent performance in an ocean of tasks, GANs are well-known for the difficulty of training. Adopting spectral normalization, the discriminators are satisfied with 1-Lipschitz constraint, which makes their training process more stable than original GANs. During quantitative and non-quantitative comparison with many state-of-the-art methods, the experimental results show that the proposed method achieves better performance on evaluation metric and visual effect. Besides, the experimental section presents attention visualization, ablation study, and generalization ability analysis to show the effectiveness of the proposed method.}
+}

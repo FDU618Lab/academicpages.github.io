@@ -1,0 +1,10 @@
+@article{cheng2020deep,
+  title={Deep attentional fine-grained similarity network with adversarial learning for cross-modal retrieval},
+  author={Cheng, Qingrong and Gu, Xiaodong},
+  journal={Multimedia Tools and Applications},
+  volume={79},
+  number={41},
+  pages={31401--31428},
+  year={2020},
+  publisher={Springer}
+}
