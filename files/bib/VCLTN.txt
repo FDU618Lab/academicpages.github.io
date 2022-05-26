@@ -1,0 +1,11 @@
+@article{QIN2022,
+title = {Visual context learning based on textual knowledge for image-text retrieval},
+journal = {Neural Networks},
+year = {2022},
+issn = {0893-6080},
+doi = {https://doi.org/10.1016/j.neunet.2022.05.008},
+url = {https://www.sciencedirect.com/science/article/pii/S0893608022001800},
+author = {Yuzhuo Qin and Xiaodong Gu and Zhenshan Tan},
+keywords = {Image-text retrieval, Knowledge transfer, Visual context learning, Modal alignment},
+abstract = {Image-text bidirectional retrieval is a significant task within cross-modal learning field. The main issue lies on the jointly embedding learning and accurately measuring image-text matching score. Most prior works make use of either intra-modality methods performing within two separate modalities or inter-modality ones combining two modalities tightly. However, intra-modality methods remain ambiguous when learning visual context due to the existence of redundant messages. And inter-modality methods increase the complexity of retrieval because of unifying two modalities closely when learning modal features. In this research, we propose an eclectic Visual Context Learning based on Textual knowledge Network (VCLTN), which transfers textual knowledge to visual modality for context learning and decreases the discrepancy of information capacity between two modalities. Specifically, VCLTN merges label semantics into corresponding regional features and employs those labels as intermediaries between images and texts for better modal alignment. Contextual knowledge of those labels learned within textual modality is utilized to guide the visual context learning. Besides, considering the homogeneity within each modality, global features are merged into regional features for assisting in the context learning. In order to alleviate the imbalance of information capacity between images and texts, entities together with relations inside the given caption are extracted and an auxiliary caption is sampled for attaching supplementary messages to textual modality. Experiments performed on Flickr30K and MS-COCO reveal that our model VCLTN achieves best results compared with the state-of-the-art methods.}
+}
