@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-2022/05/10 We have one paper accepted by TCSVT!
+2022/06/09 We have one paper accepted by TCSVT!
 
 2022/05/17 Congratulations to Cheng Chen, Keyu Wen, and Qingrong Cheng for their graduation.
 
